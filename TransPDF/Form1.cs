@@ -36,6 +36,7 @@ namespace TransPDF
         /// <param name="e"></param>
         private void btnimg_Click(object sender, EventArgs e)
         {
+
             string beforPath = txtimgb.Text;
             string afterPath = txtimga.Text;
 
